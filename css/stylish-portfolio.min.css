@@ -385,12 +385,8 @@
 
     .text-15 {
         font-size: 50px;
-        letter-spacing: 3px;
+        letter-spacing: 2px;
         font-weight: 900;
-    }
-
-    .text-5 {
-        font-size: 25px;
     }
 
     .container-full-height {
@@ -420,3 +416,6 @@
         background-repeat: no-repeat;
         background-size: cover;
     }
+    .contact-header{
+        min-width: 8rem !important;
+      }
